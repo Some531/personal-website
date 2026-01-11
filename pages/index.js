@@ -31,11 +31,11 @@ export default function Home() {
           ))}
         </div>
 
-        <h1 className="text-6xl md:text-7xl font-extrabold mb-8 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-indigo-400">
+        <h1 className="text-6xl md:text-7xl font-extrabold mb-3 pb-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-indigo-400">
           Turning Ideas Into Reality
         </h1>
 
-        <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-xl">
+        <p className="text-xl md:text-2xl text-slate-300 mb-12 max-w-xl">
           Software & Math Enthusiast | Future Engineer & Thinker
         </p>
 
