@@ -122,13 +122,20 @@ export default function Home() {
                 </div>
 
                 <div className="bg-slate-800/60 rounded-xl p-6 shadow-md">
-                  <h3 className="text-xl font-semibold text-white mb-2">Dataset Surprise</h3>
-                  <p className="text-slate-200">To be revealed...</p>
+                  <h3 className="text-xl font-semibold text-white mb-2">2D Linear Algebra Visualiser</h3>
+                  <p className="text-slate-200 mb-4">Next.js, Typescript, Canvas — Visualisation tool for 2D vectors and linear algebra.</p>
+                  <a
+                    href="https://github.com/Some531/2d-linear-algebra-visualiser"
+                    className="text-blue-400 hover:underline"
+                  >
+                    View Project
+                  </a>
+
                 </div>
 
                 <div className="bg-slate-800/60 rounded-xl p-6 shadow-md">
-                  <h3 className="text-xl font-semibold text-white mb-2">More to Come</h3>
-                  <p className="text-slate-200">Currently in progress.</p>
+                  <h3 className="text-xl font-semibold text-white mb-2">Dataset Surprise</h3>
+                  <p className="text-slate-200">To be revealed...</p>
                 </div>
               </div>
             </>
